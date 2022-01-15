@@ -16,6 +16,6 @@
 .prettierignore
 
 # Mis documentos a ignorar
-/README.md
-/style-guide.md
-/desing
+README.md
+style-guide.md
+desing
